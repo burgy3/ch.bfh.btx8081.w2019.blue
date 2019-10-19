@@ -9,6 +9,7 @@ Members: Alle
 New Tasks [Member(s), DueDate]:
 	-Interview vorbereiten [tbd, 21.10.2019]
 	-Interview durchführen [tbd, 26.10.2019]
+	-Desgin Thinking [Alle, 25.10.2019]
 
 
 Open [Member(s), DueDate]:
