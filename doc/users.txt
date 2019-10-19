@@ -3,6 +3,6 @@ https://github.com/dullp/ch.bfh.btx8081.w2019.blue.git
 dullp		->Philippe Düllmann
 moscy1		->Yannic Mösching
 chrio1		->Olivier Christen
-Kunzs15		->Sebatian Kunz
+kunzs15		->Sebatian Kunz
 burgyhub	->Yanick Bürgisser
 zgrac1 		->Cyril Zgraggen
