@@ -1,0 +1,25 @@
+Defintion: 
+	Alle = dullp1, moscy1, chrio1, Kunzs15, burgyhub
+
+----------------------------------------------------------------------------------------------------
+DateTime: 18.10.2019, 15:50-16:00
+
+Members: Alle
+
+New Tasks [Member(s), DueDate]:
+	-Interview vorbereiten [tbd, 21.10.2019]
+	-Interview durchführen [tbd, 26.10.2019]
+
+
+Open [Member(s), DueDate]:
+	-Aufgabenstellung verstehen [Alle, 20.10.2019]
+
+
+Done [Member(s), DueDate]:
+	-Githihub repository erstellen [dullp1, 18.10.2019]
+	-Github User hinzufügen [dullp1, 18.10.2019]
+
+
+Comment:
+
+----------------------------------------------------------------------------------------------------
