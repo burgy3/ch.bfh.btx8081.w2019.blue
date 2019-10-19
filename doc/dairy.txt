@@ -1,4 +1,4 @@
-fintion:
+Defintion: 
 	Alle = dullp1, moscy1, chrio1, Kunzs15, burgyhub, LastSoul87
 
 ----------------------------------------------------------------------------------------------------
@@ -21,8 +21,8 @@ Done [Member(s), DueDate]:
 	-Githihub repository erstellen [dullp1, 18.10.2019]
 	-Github User hinzufügen [dullp1, 18.10.2019]
 	-GitHub-Test [Kunzs15, zgrac1, 19.10.2019]
-	-Aufgabenstellung verstehen [zgrac1, 19.10.2019]
-	-Fragen für Interview in Datei FragenInterview.txt eingetragen [zgrac1, 19.10.2019]
+	-Aufgabenstellung verstehen [zgrac1, Kunzs15 19.10.2019]
+	-Interview vorbereiten, Fragen in Textfile InterviewFragen eingetragen [zgrac1, 19.10.2019]
 
 
 
