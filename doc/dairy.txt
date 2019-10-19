@@ -1,4 +1,4 @@
-Defintion: 
+fintion:
 	Alle = dullp1, moscy1, chrio1, Kunzs15, burgyhub, LastSoul87
 
 ----------------------------------------------------------------------------------------------------
@@ -14,14 +14,15 @@ New Tasks [Member(s), DueDate]:
 
 Open [Member(s), DueDate]:
 	-Aufgabenstellung verstehen [Alle, 20.10.2019]
-	- GitHub-Test [Alle, ]
+	-GitHub-Test [Alle, ]
 
 
 Done [Member(s), DueDate]:
 	-Githihub repository erstellen [dullp1, 18.10.2019]
 	-Github User hinzufügen [dullp1, 18.10.2019]
 	-GitHub-Test [Kunzs15, zgrac1, 19.10.2019]
-	- Aufgabenstellung verstehen [zgrac1, 19.10.2019
+	-Aufgabenstellung verstehen [zgrac1, 19.10.2019]
+	-Fragen für Interview in Datei FragenInterview.txt eingetragen [zgrac1, 19.10.2019]
 
 
 
