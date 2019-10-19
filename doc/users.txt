@@ -5,4 +5,4 @@ moscy1		->Yannic Mösching
 chrio1		->Olivier Christen
 Kunzs15		->Sebatian Kunz
 burgyhub	->Yanick Bürgisser
-tbd 		->Cyril Zgraggen
+LastSoul87 		->Cyril Zgraggen

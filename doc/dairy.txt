@@ -1,5 +1,5 @@
 Defintion: 
-	Alle = dullp1, moscy1, chrio1, Kunzs15, burgyhub
+	Alle = dullp1, moscy1, chrio1, Kunzs15, burgyhub, LastSoul87
 
 ----------------------------------------------------------------------------------------------------
 DateTime: 18.10.2019, 15:50-16:00
