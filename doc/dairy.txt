@@ -7,21 +7,21 @@ DateTime: 18.10.2019, 15:50-16:00
 Members: Alle
 
 New Tasks [Member(s), DueDate]:
-	-Interview vorbereiten [tbd, 21.10.2019]
-	-Interview durchführen [tbd, 26.10.2019]
-	-Desgin Thinking [Alle, 25.10.2019]
+	- Interview vorbereiten [tbd, 21.10.2019]
+	- Interview durchführen [tbd, 26.10.2019]
+	- Desgin Thinking [Alle, 25.10.2019]
 
 
 Open [Member(s), DueDate]:
-	-Aufgabenstellung verstehen [Alle, 20.10.2019]
+	- Aufgabenstellung verstehen [Alle, 20.10.2019]
 	- GitHub-Test [Alle, ]
 
 
 Done [Member(s), DueDate]:
-	-Githihub repository erstellen [dullp1, 18.10.2019]
-	-Github User hinzufügen [dullp1, 18.10.2019]
-	-GitHub-Test [Kunzs15, zgrac1, 19.10.2019]
-	- Aufgabenstellung verstehen [zgrac1, 19.10.2019
+	- Githihub repository erstellen [dullp1, 18.10.2019]
+	- Github User hinzufügen [dullp1, 18.10.2019]
+	- GitHub-Test [kunzs15, zgrac1, 19.10.2019]
+	- Aufgabenstellung verstehen [zgrac1, kunzs15, 19.10.2019
 
 
 
