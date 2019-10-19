@@ -20,7 +20,7 @@ Open [Member(s), DueDate]:
 Done [Member(s), DueDate]:
 	-Githihub repository erstellen [dullp1, 18.10.2019]
 	-Github User hinzufügen [dullp1, 18.10.2019]
-	- GitHub-Test aus IntelliJ [kunzs15, 19.10.2019]
+
 
 
 Comment:
